@@ -6,5 +6,7 @@
     <mapping directory="$PROJECT_DIR$/Roboshop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/k8-roboshop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/robot-shop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform/terraform-modules" vcs="Git" />
   </component>
 </project>
